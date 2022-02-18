@@ -16,6 +16,12 @@ Somehow, I took the path of a leader. Being on that journey I come across experi
 * I list tools and practices I am using myself
 * I give an overview over laws, insights and other sources, that can help understand leadership
 
+## For the impatient
+
+Here is a short list for the impatient on what it's all about. You should read:
+
+* Kamil Sindi's [Manager's Playbook](https://github.com/ksindi/managers-playbook)
+
 ## Do you have ideas?
 
 If you are interested in this, please hook me up on [twitter.com/oliverschwarz](https://twitter.com/oliverschwarz) or click the **watch** button on the top right. 
