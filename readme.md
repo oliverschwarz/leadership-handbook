@@ -18,4 +18,4 @@ Somehow, I took the path of a leader. Being on that journey I come across experi
 
 ## Do you have ideas?
 
-If you are interested in this, please hook me up on [twitter.com/oliverschwarz](https://twitter.com/oliverschwarz) or click the *watch* button on the top right. 
+If you are interested in this, please hook me up on [twitter.com/oliverschwarz](https://twitter.com/oliverschwarz) or click the **watch** button on the top right. 
