@@ -11,3 +11,5 @@ Some quotes have the wrong name attached to it. I am trying my best to validate 
 "If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea." - n.n.
 
 "The easiest way to gather technical debt is to learn new things." - n.n.
+
+"Attempting to change an organization’s culture is a folly, it always fails. Peoples’ behavior (the culture) is a product of the system; when you change the system peoples’ behavior changes." - John Seddon
