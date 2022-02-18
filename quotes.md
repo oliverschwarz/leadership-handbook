@@ -13,3 +13,5 @@ Some quotes have the wrong name attached to it. I am trying my best to validate 
 "The easiest way to gather technical debt is to learn new things." - n.n.
 
 "Attempting to change an organization’s culture is a folly, it always fails. Peoples’ behavior (the culture) is a product of the system; when you change the system peoples’ behavior changes." - John Seddon
+
+"The only sustainable source of competitive edge is an organization’s ability to learn faster and better than its competitors." - Peter Senge
