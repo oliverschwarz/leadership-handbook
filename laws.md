@@ -1,6 +1,6 @@
 # Laws
 
-There are several so-called laws out there. They often describe certain behavioural patterns that regularly occur, when a certain action is started or a certain effect comes into place. Here is a list of the ones that I have seen in rl:
+There are several so-called laws out there. They often describe certain behavioural patterns that regularly occur, when a certain action is started or a certain effect comes into place. Here is a list of the ones that I have seen in the wild. _One word about laws:_ Watch your bias! Laws can often affect your perception just because you know them. If you _want_ to see Larman's Law in effect, you will probably see it in effect. If you encounter a law in your situation, always check a second perspective.
 
 ## Convey's Law
 ## Larman's Law
