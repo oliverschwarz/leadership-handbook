@@ -15,3 +15,7 @@ Some quotes have the wrong name attached to it. I am trying my best to validate 
 "Attempting to change an organization’s culture is a folly, it always fails. Peoples’ behavior (the culture) is a product of the system; when you change the system peoples’ behavior changes." - John Seddon
 
 "The only sustainable source of competitive edge is an organization’s ability to learn faster and better than its competitors." - Peter Senge
+
+"What brought you here, won't bring you there"
+
+"Der Erfolg von gestern ist unser größtes Risiko für unsere Zukunft"
